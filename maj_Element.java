@@ -1,5 +1,6 @@
-import java.util.*;
+// Major Element problem
 
+import java.util.*;
 public class maj_Element{
 
 	public static void main(String [] args) {
