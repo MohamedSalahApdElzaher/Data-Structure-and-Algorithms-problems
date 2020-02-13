@@ -1,5 +1,6 @@
-import java.util.*;
+// Binary search problem
 
+import java.util.*;
 public class bs{
 
 	public static void main(String [] args) {
